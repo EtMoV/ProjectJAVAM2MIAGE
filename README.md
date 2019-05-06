@@ -9,7 +9,7 @@ Le projet a pour but de lister un ensemble de bières, selon trois catégories:
   - Les brunes
   - Les ambrées
   
-Il est composé d'une partie UI (dossier ui), d'une partie serveur (dossier bierrophile), et d'un fichier docker pour installer rabbitMQ.
+Il est composé d'une partie UI (dossier ui), d'une partie serveur (dossier bierrophile), d'un fichier docker pour installer rabbitMQ et d'un fichier PDF regroupant la documentation du projet.
 
 # Bierrophile
 
@@ -41,3 +41,6 @@ Lors de la récupération du projet lancer un npm install puis pour lancer la ve
 
 Le fichier docker-compose.yml contient une image docker rabbitMQ. Le message broker est neccessaire pour le bon déroulement de l'application. Lancer la commande docker-compose up dans le dossier du projet
 
+# Fichier PDF "Documentation Bierrophile"
+
+Le fichier a pour but de réunir la documentation du projet au format PDF.
