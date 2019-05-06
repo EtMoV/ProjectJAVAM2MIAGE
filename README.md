@@ -39,5 +39,5 @@ Lors de la récupération du projet lancer un npm install puis pour lancer la ve
 
 # RabbitMQ
 
-Le fichier docker-compose.yml contient une image docker rabbitMQ. Le message broker est neccessaire pour le bon déroulement de l'application
+Le fichier docker-compose.yml contient une image docker rabbitMQ. Le message broker est neccessaire pour le bon déroulement de l'application. Lancer la commande docker-compose up dans le dossier du projet
 
