@@ -15,7 +15,7 @@ Il est composé d'une partie UI (dossier ui), d'une partie serveur (dossier bier
 
 La partie serveur est basée sur un springBoot+JPA+BDD-H2.
 
-Il démarre sur le port 9090 (cf. application.properties)
+Il démarre sur le port 9090 (cf. application.properties). Attention, il ne faut pas oublier d'importer les dépendances maven si elles ne sont pas importées automatiquement.
 
 Pour démarrer le projet, il faut soit le compiler et lancer le jar. Soit l'executer via un IDE tel que eclispe ou IntelliJ (Remarque : le projet a été testé sous Intellij)
 
